@@ -1,0 +1,1 @@
+package com.gautam.spring.data.jpa.tutorial.repository;
